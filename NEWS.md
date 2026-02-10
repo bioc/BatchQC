@@ -1,3 +1,7 @@
+# Version 2.6.1
+## Minor Changes
+* Changed maintainer from Jessica Anderson to Yaoan Li
+
 # Version 2.5.14
 ## Minor Changes
 * Added voom as a normalization method
