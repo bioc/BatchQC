@@ -1,6 +1,6 @@
 # Version 2.6.1
 ## Minor Changes
-* Changed maintainer from Jessica Anderson to Yaoan Li
+* Changed maintainer from Jessica Anderson to Yaoan Leng
 
 # Version 2.5.14
 ## Minor Changes
